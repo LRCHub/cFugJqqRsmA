@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星見の唄",
+  "base_artist": "IA",
+  "createdAt": "2026-02-16T00:49:03.180960Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星見の唄",
+      "artist": "IA",
+      "has_synced": false,
+      "path": "select/pl_01_星見の唄_IA.txt"
+    }
+  ]
+}
